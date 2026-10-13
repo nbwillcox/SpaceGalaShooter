@@ -15,6 +15,10 @@ Everything is generated in code: sprites are vector-drawn on the fly, and all so
 | Smart bomb | `B`, `X`, `↑` or right mouse button |
 | Pause | `P` or `Esc` |
 
+### On a phone or tablet
+
+Play in portrait. Drag anywhere to steer the ship (it fires while a finger is down), tap **BOMB** for a smart bomb and the pause button for the menu. The on-screen controls appear on touch devices automatically; Settings has size, opacity and a left-handed layout. Use your browser's *Add to Home Screen* to install it as a full-screen app.
+
 ## Gameplay
 
 - Enemies swoop in, lock into a swaying formation, then peel off to dive-bomb you.
